@@ -1,0 +1,16 @@
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\bin\Debug\net9.0\Todo.Application.deps.json
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\bin\Debug\net9.0\Todo.Application.dll
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\bin\Debug\net9.0\Todo.Application.pdb
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\bin\Debug\net9.0\Todo.Domain.dll
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\bin\Debug\net9.0\Todo.Domain.pdb
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.csproj.AssemblyReference.cache
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.AssemblyInfoInputs.cache
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.AssemblyInfo.cs
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.csproj.CoreCompileInputs.cache
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.sourcelink.json
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.App.468A55F7.Up2Date
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.dll
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\refint\Todo.Application.dll
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\Todo.Application.pdb
+C:\Dropbox\Dropbox\Study 2025\c#\12-TodoApi-CleanArchitecture-MVC-AzureDB-Docker-Kubernetes\Todo.Application\obj\Debug\net9.0\ref\Todo.Application.dll
