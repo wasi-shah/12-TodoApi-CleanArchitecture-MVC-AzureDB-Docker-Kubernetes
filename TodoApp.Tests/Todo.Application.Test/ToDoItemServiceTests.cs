@@ -31,7 +31,7 @@ namespace TodoApp.Application.Tests
                 new ToDoItem { ToDoItemId = 2, Title = "Task 2", Description = "Description 2" }
             };
 
-            _mockRepository.Setup(repo => repo.GetAllItemsAsync()).ReturnsAsync(expectedItems);
+           _mockRepository.Setup(repo => repo.GetAllItemsAsync()).ReturnsAsync(expectedItems);
 
             //Act
             var result = await _service.GetAllItemsAsync();

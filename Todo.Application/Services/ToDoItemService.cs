@@ -22,7 +22,8 @@ namespace TodoApp.Application.Services
         }
 
         public async Task<IEnumerable<ToDoItem>> GetAllItemsAsync()
-         {
+        {
+            //return null;
             return await _toDoItemRepository.GetAllItemsAsync();
         }
 

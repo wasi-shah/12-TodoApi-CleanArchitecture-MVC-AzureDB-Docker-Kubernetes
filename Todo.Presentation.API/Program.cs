@@ -31,7 +31,8 @@ var useInMemoryDB = builder.Configuration.GetValue<bool>("UseInMemoryDB");
 if (useInMemoryDB)
 {
     // we could have written that logic here but as per clean architecture, we are separating these into their own piece of code
-    builder.Services.AddInMemoryDatabase();   
+    builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseInMemoryDatabase("ToDoAppDb"));
 }
 else
 {
